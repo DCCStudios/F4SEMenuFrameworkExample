@@ -43,7 +43,7 @@ set(BEAUTIFUL_NAME "Your Plugin Display Name")
 - Visual Studio 2022
 - [CMake](https://cmake.org/) 3.21+
 - [vcpkg](https://github.com/microsoft/vcpkg) with `VCPKG_ROOT` set
-- [CommonLibF4](https://github.com/Ryan-rsm-McKenzie/CommonLibF4) cloned to `../PluginTemplate/CommonLibF4/CommonLibF4/`
+- [CommonLibF4](https://github.com/Ryan-rsm-McKenzie/CommonLibF4)
 - **F4SE Menu Framework 3** already built (the example links against `F4SEMenuFramework.h` at runtime via `GetProcAddress` — no import lib needed)
 
 ### Environment variables
